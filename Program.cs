@@ -4,3 +4,4 @@ Console.WriteLine("Another line");
 Console.WriteLine();
 Console.WriteLine("from branch 1");
 Console.Write("from branch 2");
+System.Console.WriteLine("more from branch 2");
